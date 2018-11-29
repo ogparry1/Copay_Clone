@@ -6856,7 +6856,7 @@ a:hover.lost-link {
 
 /* Classes for the fifth animation */
 
-.code-trust-base {
+.code-trust-ezpay-base {
     display: block;
     border-bottom: 10px red solid;
     position: absolute;
@@ -6864,7 +6864,7 @@ a:hover.lost-link {
     top: 1em;
 }
 
-.code-trust {
+.code-trust-ezpay {
     display: block;
     position: absolute;
     overflow: hidden;
