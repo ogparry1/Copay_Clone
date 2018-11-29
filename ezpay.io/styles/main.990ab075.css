@@ -7141,15 +7141,17 @@ footer .menu-item:hover {
     background: rgba(255, 255, 255, 0.1);
 }
 
-.btn-green {
-    background: #1ABC9C;
+.btn-orange {
+    /*background: #1ABC9C;*/
+    background: #FFAA00;
     border: 1px solid #17a689;
     box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.5);
     letter-spacing: 1px;
 }
 
-.btn-green:hover {
-    background: #15A085;
+.btn-orange:hover {
+    /*background: #15A085;*/
+    background: #F5B022;
 }
 
 @media only screen and (max-width: 25em) {
