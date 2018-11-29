@@ -7006,7 +7006,7 @@ a:hover.lost-link {
     height: 130px;
     margin-bottom: 0.4rem;
     display: inline-block;
-    /*background-image: url("../images/copay-logo-white.ab6ad37b.svg");*/
+    /*background-image: url("../images/ezpay-logo-white.ab6ad37b.svg");*/
     background-image: url("../images/ezpaylogo.png");
     background-repeat: no-repeat;
     z-index: 2;
@@ -7021,7 +7021,7 @@ a:hover.lost-link {
 
 footer .logo {
     background-image: url("../images/ezpaylogo.png");
-    /*background-image: url("../images/copay-logo-dark.321a0193.svg");*/
+    /*background-image: url("../images/ezpay-logo-dark.321a0193.svg");*/
 }
 
 .menu-item {
@@ -10853,7 +10853,7 @@ span.blue-stick {
     border-radius: 4px;
 }
 
-.copay-ui-btn {
+.ezpay-ui-btn {
     border-radius: 25px;
     background-color: #A5B3C0;
     color: #FFFFFF !important;
